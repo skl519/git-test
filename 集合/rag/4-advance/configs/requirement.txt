@@ -1,0 +1,11 @@
+elasticsearch
+langchain_elasticsearch
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+langchain_huggingface
+langchain_community
+PyPDF2
+PyMuPDF
+pypdf
+
+fastapi
+dashscope

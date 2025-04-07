@@ -1,0 +1,6 @@
+<video>Describe the content in the video
+<video>Emphasize the most eye-catching details or key moments in the video
+<video>Describe the main location and environment in the video
+<video>Explain the main behaviors and activities of the characters in the video
+<video>Describe the emotions and atmosphere conveyed by the video
+<video>Focus on key details in the video background

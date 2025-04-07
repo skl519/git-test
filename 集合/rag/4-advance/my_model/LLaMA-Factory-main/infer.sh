@@ -1,0 +1,1 @@
+API_PORT=7999 llamafactory-cli api examples/inference/llama3_lora_sft.yaml

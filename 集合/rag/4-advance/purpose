@@ -1,0 +1,19 @@
+
+
+量化蒸馏裁剪
+
+异步推理：通过异步队列（如消息队列），不同的请求在不同的线程/进程中处理，可以避免请求阻塞，提高吞吐量。
+批量推理（Batching）：通过将多个请求打包成一个批次（batch），一次性送入模型进行推理。这种方法能显著提高GPU和其他硬件资源的利用率。要注意避免批次过大，导致延迟过高。
+
+
+
+大模型推理框架，包括vLLM，TensorRT-LLM，以及在端侧部署框架MLC-LLM
+
+Continous Batching技术
+动态批处理技术
+异步tokenizer/detokenizer
+
+多卡并行推理
+KV Cache
+Page Attention
+AWQ GPTQ等低比特量化 QLoRA
